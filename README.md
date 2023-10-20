@@ -4,6 +4,7 @@
 The "Pizza Application" is a Java Swing-based graphical user interface designed to facilitate the process of ordering customized pizzas. Utilizing a well-organized layout, the interface presents various options like radio buttons and checkboxes to order pizzas. The application employs event handling and validation techniques to ensure accurate processing of user inputs, offering real-time feedback and error notifications. Exception handling mechanisms promptly address invalid inputs and guide users to correct their selections. Overall, the application demonstrates effective user interface design and programming practices, delivering a seamless and user-friendly experience for customizing and placing pizza orders.
 
 
+
 ## 1.0 INTRODUCTION
 
 ### 1.1 PROBLEM DEFINITION
@@ -45,12 +46,14 @@ The project uses Java’s Swing and AWT library to create graphical user interfa
 ### 1.4 REQUIREMENT SPECIFICATIONS
 
  **Hardware Requirements:**
+ 
 Processor: Any modern processor should be sufficient.
 Memory (RAM): At least 2 GB of RAM is recommended.
 Storage: The application itself is very small, so minimal storage space is required.
 Display: A monitor with a resolution of 1024x768 or higher is recommended for a comfortable viewing experience.
 
  **Software Requirements:**
+ 
 Java Development Kit (JDK): You'll need a compatible JDK installed on your system to compile and run Java programs. Preferably JDK 17 as it’s the LTE version.
 
 Integrated Development Environment (IDE): While you can use a simple text editor and command-line tools to compile and run the Java program, using an IDE can greatly simplify development and debugging. Popular options include Eclipse, IntelliJ IDEA, and NetBeans.
